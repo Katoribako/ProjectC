@@ -1,0 +1,15 @@
+C:\Users\Георгий\Desktop\ProjectC\TestTask\bin\Debug\net7.0\TestTask.exe
+C:\Users\Георгий\Desktop\ProjectC\TestTask\bin\Debug\net7.0\TestTask.deps.json
+C:\Users\Георгий\Desktop\ProjectC\TestTask\bin\Debug\net7.0\TestTask.runtimeconfig.json
+C:\Users\Георгий\Desktop\ProjectC\TestTask\bin\Debug\net7.0\TestTask.dll
+C:\Users\Георгий\Desktop\ProjectC\TestTask\bin\Debug\net7.0\TestTask.pdb
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.AssemblyInfo.cs
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.dll
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\refint\TestTask.dll
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.pdb
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\TestTask.genruntimeconfig.cache
+C:\Users\Георгий\Desktop\ProjectC\TestTask\obj\Debug\net7.0\ref\TestTask.dll
