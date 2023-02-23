@@ -38,3 +38,9 @@ string[] String3CharFilter(string[] array)
     }
     else return new[] { "we have no elements with equal 3 or less characters in this array" };
 }
+Console.WriteLine("Please input a length of array");
+int size = Convert.ToInt32(Console.ReadLine());
+string[] arr = CreateRandomArray(size);
+ShowArray(arr);
+string[] array3char = String3CharFilter(arr);
+ShowArray(array3char);
