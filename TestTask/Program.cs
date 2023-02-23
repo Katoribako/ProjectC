@@ -1,4 +1,4 @@
-﻿string[] CreateRandomArray(int size)
+﻿string[] CreateRandomArray(int size) //We create array with random sting parts
 {
     string[] Arr = new string[size];
 
@@ -10,7 +10,7 @@
     return Arr;
 }
 
-void ShowArray(string[] array)
+void ShowArray(string[] array) //Method for showing our array to user
 {
     Console.Write(" In this array [ ");
     for (int i = 0; i < array.Length - 1; i++)
@@ -19,7 +19,7 @@ void ShowArray(string[] array)
     Console.WriteLine();
 }
 
-string[] String3CharFilter(string[] array)
+string[] String3CharFilter(string[] array) //Method for 3char filtration in our array
 {
     int Char3Counter = 0;
     for (int i = 0; i < array.Length; i++)
