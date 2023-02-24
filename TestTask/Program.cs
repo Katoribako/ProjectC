@@ -6,13 +6,17 @@
     {
         Console.WriteLine($"Please input {i + 1} (No empty!) string");
         Arr[i] = Console.ReadLine();
+        if (Arr[i].Length == 0)
+        {
+            return new[] {"Please input not empty string"};
+            
+        }
     }
     return Arr;
 }
-
 void ShowArray(string[] array) //Method for showing our array to user
 {
-    Console.Write(" In this array [ ");
+    Console.Write(" [ ");
     for (int i = 0; i < array.Length - 1; i++)
         Console.Write(array[i] + " | ");
     Console.Write($"{array[array.Length - 1]} ]");
