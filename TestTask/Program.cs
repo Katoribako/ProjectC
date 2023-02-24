@@ -1,4 +1,4 @@
-﻿string[] CreateRandomArray(int size) //We create array with random sting parts
+﻿string[] StingArrayGen(int size) //We create array with random sting parts
 {
     string[] Arr = new string[size];
 
@@ -44,7 +44,7 @@ string[] String3CharFilter(string[] array) //Method for 3char filtration in our 
 }
 Console.WriteLine("Please input a length of array");
 int size = Convert.ToInt32(Console.ReadLine());
-string[] arr = CreateRandomArray(size);
+string[] arr = StingArrayGen(size);
 ShowArray(arr);
 string[] array3char = String3CharFilter(arr);
 ShowArray(array3char);
